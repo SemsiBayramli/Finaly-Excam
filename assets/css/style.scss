@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.header_info{
+    
+    i{
+        color: rgb(237, 219, 26)
+    }
+}
+.button{
+    
+    button{
+        background-color: rgb(237, 219, 26)
+        
+       
+    }
+   
+}
+.container{
+    .logo{
+        // background-color: rgb(44, 116, 232)
+        h2{
+            color: aliceblue
+           
+        }
+    }
+}
+.row{
+    .info{
+        
+        
+            
+                
+                   a{
+                    display: flex
+                   }
+                   
+                
+            
+        
+    }
+}
+main{
+    
+        .button{
+           
+            button{
+                background-color: rgb(44, 116, 232)
+                
+
+            }
+        }
+    
+}
+body{
+    background-color: rgb(65, 154, 226)
+    background-image: url(../image/hero-bg.jpg)
+}
+.box{
+    
+    bottom: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: white
+    
+    
+
+  
+}
+.boxes{
+    
+    bottom: 50px;
+    display: flex;
+}
+.contact{
+    background-color: white;
+    .infos{
+        .box{
+            
+            width: 15px;
+            height: 65px;
+        }
+    }
+}
+table{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px
+}
+main{
+    .boxes{
+      .box{
+        top: 50px
+      }
+    }
+}
+.boxes{
+     
+    .box{
+       
+        i{
+           
+            color: rgb(237, 219, 26)
+        }
+    }
+}
+.description{
+display: flex
+}
+.end_info{
+    .social_medias{
+        a{
+            width: 15px;
+            height: 15px;
+        }
+    }
+    
+}
+table{
+    width: 100%;
+}
